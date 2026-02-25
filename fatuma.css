@@ -1,0 +1,61 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #f4f6f8;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-section {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 6px;
+    border: 1px solid darkgreen;
+}
+
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid darkgreen;
+    background-color: bisque;
+    color: darkgreen;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+#performanceSection {
+    margin-top: 20px;
+    padding: 15px;
+    background: white;
+    border-radius: 15px;
+}
