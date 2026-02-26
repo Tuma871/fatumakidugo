@@ -47,6 +47,8 @@ function displayStudents() {
             <tr>
                 <td>${student.id}</td>
                 <td>${student.name}</td>
+                 <td>${student.age}</td>
+                  <td>${student.gander}</td>
                 <td>Form ${student.form}</td>
                 <td>${avg ? avg.toFixed(2) : "N/A"}</td>
                 <td>
@@ -157,4 +159,5 @@ function promoteStudent() {
 
     displayStudents();
     viewStudent(currentStudent.id);
+
 }
