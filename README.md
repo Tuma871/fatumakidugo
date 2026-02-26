@@ -1,3 +1,0 @@
-## CA Number CA/DIST/25/14561
-## Registration Number 23101123130087
-#FATUMA YUSUPH KIDUGO
