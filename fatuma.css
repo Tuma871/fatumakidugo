@@ -16,7 +16,7 @@ h1 {
 }
 
 input, select {
-    padding: 8px;
+    padding: 5px;
     margin: 5px;
     border-radius: 6px;
     border: 1px solid darkgreen;
@@ -58,4 +58,9 @@ th {
     padding: 15px;
     background: white;
     border-radius: 15px;
+}
+
+label{
+	width:90px;
+	display:inline-block;
 }
